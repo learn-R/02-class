@@ -1,8 +1,15 @@
 ---
-title: "02-practico-nw"
-author: "su-nombre"
-date: "13-08-2021"
-output: html_document
+title: "Bienvenido/a a R, RStudio y tidyverse"
+linktitle: "2: RMarkdown"
+date: "2020-01-13"
+menu:
+  example:
+    parent: Ejemplos
+    weight: 2
+type: docs
+toc: true
+editor_options:
+  chunk_output_type: console
 ---
 
 ## 0. Objetivo del práctico
@@ -412,3 +419,6 @@ La actividad tendra relación con la entrega de la **Tarea 1**. Esta actividad c
 - [Tutoriales Markdown](https://rmarkdown.rstudio.com/lesson-1.html) 
 - [cheatsheets](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 - Para practicar ir a [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
+
+## 8. Reporte de progreso
+
